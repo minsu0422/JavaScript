@@ -1,0 +1,15 @@
+.americano {
+  display: flex;
+}
+
+.americano > .americano_plus {
+  width: 100px;
+  height: 50px;
+}
+.latte {
+  display: flex;
+}
+
+.vanila {
+  display: flex;
+}
